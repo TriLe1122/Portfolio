@@ -80,6 +80,10 @@
   }
 }
 
+.skills{
+  font-size: 60px;
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
